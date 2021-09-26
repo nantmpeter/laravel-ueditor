@@ -1,11 +1,11 @@
 {
-    "name": "overtrue/laravel-ueditor",
-    "description": "UEditor integration for Laravel.",
+    "name": "westilt/laravel-ueditor-new",
+    "description": "fork from overtrue/laravel-ueditor",
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "wangjiayi",
+            "email": "wangjiayi.p@gmail.com"
         }
     ],
     "autoload": {
